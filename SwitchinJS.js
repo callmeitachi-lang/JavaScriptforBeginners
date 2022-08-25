@@ -4,9 +4,9 @@ var x="orange"
   switch(x)
 {
 
- case "orange": 
- console.log("I am orange")
- break;
+  case "orange": 
+  console.log("I am orange")
+  break;
  
  case "graphes":
  console.log("I am graphes")
